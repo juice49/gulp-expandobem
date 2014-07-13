@@ -1,0 +1,14 @@
+{
+  "name": "gulp-expandobem",
+  "version": "0.0.1",
+  "repository": "https://github.com/juice49/gulp-expandobem.git",
+  "description": "",
+  "main": "gulp-expandobem.js",
+  "author": "Ash",
+  "dependencies": {
+    "concat-stream": "^1.4.5",
+    "expandobem": "0.0.1",
+    "gulp-util": "^2.2.14",
+    "through2": "^0.4.1"
+  }
+}
